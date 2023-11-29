@@ -6,6 +6,8 @@ Joshua Herrera es la persona detras de este perfil,actualmente tengo 20 años y 
  
 Aun sigo en proceso de aprendizaje, por lo que existen miles de cosas que aprendo cada dia, no considero que sepa mucho en comparacion a desarrolladores de mi entorno, pero las ganas y el gusto por escribir lineas de codigo me han inspirado a seguir adelante💪. 
 
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+
 
 ## Infromacion adicional sobre mi 🤖.
 
