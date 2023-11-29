@@ -3,12 +3,10 @@
 ## Acerca de Mi
 Joshua Herrera es la persona detras de este perfil,actualmente tengo 20 años y soy estudiante de la Universidad Tecnica de Ambato.
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=22EBF7&size=25&center=false&lines=hey!+its+Kaustav;Full+stack+web+developer...;Data+Science+Enthusiast...;Tech+Blogger...;Active+Open+Source+Contributor..."/>
+![Soy ese](ruta/a/la/imagen.jpg)
  
 Aun sigo en proceso de aprendizaje, por lo que existen miles de cosas que aprendo cada dia, no considero que sepa mucho en comparacion a desarrolladores de mi entorno, pero las ganas y el gusto por escribir lineas de codigo me han inspirado a seguir adelante💪. 
 
-
-<img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="50%" align="right" />
 
 ## Infromacion adicional sobre mi 🤖.
 
@@ -23,14 +21,8 @@ Aun sigo en proceso de aprendizaje, por lo que existen miles de cosas que aprend
 <hr>
 
 </br>
-
-
-<table width="100%" >
-
- <tr>
-    <td width="60%">
      
-## 🛠️ Skills
+## 🛠️ Habilidades :D
 
 #### Languages
 
