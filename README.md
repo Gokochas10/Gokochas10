@@ -40,6 +40,10 @@ Aun sigo en proceso de aprendizaje, por lo que existen miles de cosas que aprend
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
      
-</td>
-    <td>
+## Redes Sociales 📱
+-  <a href="https://www.instagram.com/jsebastian_herrera10/">Instagram</a>
+-  <a href="https://www.facebook.com/sebas.herrera.3152?locale=es_LA">Instagram</a>
+
+
   
+
