@@ -1,7 +1,7 @@
 # Hola a todos desarrolladores🦾💻 !! 
 
 ## Acerca de Mi
-Joshua Herrera es la persona detras de este perfil, actualmente tengo 201 años y soy estudiante de la Universidad Tecnica de Ambato.
+Joshua Herrera es la persona detras de este perfil, actualmente tengo 21 años y soy estudiante de la Universidad Tecnica de Ambato.
 
  
 Aun sigo en proceso de aprendizaje, por lo que existen miles de cosas que aprendo cada dia, no considero que sepa mucho en comparacion a desarrolladores de mi entorno, pero las ganas y el gusto por escribir lineas de codigo me han inspirado a seguir adelante💪. 
@@ -13,7 +13,6 @@ Aun sigo en proceso de aprendizaje, por lo que existen miles de cosas que aprend
 
 </br>
 
-- 🔧 Actualmente estoy realizando un pryecto de gestion de pedidos en un restaurante 🍜.
 - 💡 Me gustaria especializarme en un entorno de inteligencia articial 🤖.
 - 📖 Estoy aprendiendo frameworks como Flutter o React 🖥️.
 - 👥 Me gusta colaborar con personas realizando proyectos y trato de adaptarme a la metodología que utilizan.
