@@ -7,13 +7,17 @@
 
 ## 🚀 About Me
 From a young age, technology has captivated me, fueling my curiosity and passion for innovation.  
-I am a dedicated **Software Developer**, currently pursuing my studies at **Universidad Técnica de Ambato**.  
+I am a dedicated **Software Developer**, currently pursuing my studies at **Universidad Técnica de Ambato**. 
 
 - 💻 Focused on **Full-Stack Development** and **DevOps**.  
 - 🔍 Passionate about **Artificial Intelligence, Machine Learning**, and **high-scale architectures**.  
 - 🤝 Skilled in team collaboration and adaptable to various methodologies.  
 - 📚 Committed to continuous learning and technological advancement.  
 
+---
+## 💼 My Portfolio ##
+
+https://portfolio-gokochas10s-projects.vercel.app/
 ---
 
 ## 📖 My Journey in Technology
@@ -56,7 +60,7 @@ I am a dedicated **Software Developer**, currently pursuing my studies at **Univ
 <p align="left">
   <a href="https://www.microsoft.com/en-us/sql-server"><img src="https://cdn.worldvectorlogo.com/logos/microsoft-sql-server-1.svg" height="40" alt="SQL Server"/></a>
   <a href="https://www.postgresql.org"><img src="https://cdn.worldvectorlogo.com/logos/postgresql.svg" height="40" alt="PostgreSQL"/></a>
-  <a href="https://www.mysql.com"><img src="https://cdn.worldvectorlogo.com/logos/mysql-6.svg" height="40" alt="MySQL"/></a>
+  <a href="https://www.mysql.com"><img src="https://www.vectorlogo.zone/logos/mysql/mysql-ar21.svg" height="40" alt="MySQL"/></a>
 </p>
 
 ### **DevOps & Tools**
