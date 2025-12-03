@@ -85,13 +85,6 @@ https://portfolio-gokochas10s-projects.vercel.app/
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=gokochas10&theme=github-dark" alt="GitHub Streak" />
-</p>
-
----
 
 ## 📫 Let's Connect!
 
