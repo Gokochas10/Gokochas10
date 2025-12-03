@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://jnabhfpbwfzyntvqwbfz.supabase.co/storage/v1/object/sign/EnterpriseImages/finalPortfolio.png?token=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1cmwiOiJFbnRlcnByaXNlSW1hZ2VzL2ZpbmFsUG9ydGZvbGlvLnBuZyIsImlhdCI6MTc0MDUyODA2MCwiZXhwIjoxODk4MjA4MDYwfQ.l-TcVRNI0FhnnBifLIutKJspXobRaTqK1Z2cOdir8EU" alt="Banner"/>
+  <img src="https://gtknxwgbdcnrmzkapuqv.supabase.co/storage/v1/object/sign/profile/1739906025527.jpeg?token=eyJraWQiOiJzdG9yYWdlLXVybC1zaWduaW5nLWtleV9kM2IzZDIxMy04ZTM5LTQ5ZGItYTYxMS1lMDU1YmZhZjViYjgiLCJhbGciOiJIUzI1NiJ9.eyJ1cmwiOiJwcm9maWxlLzE3Mzk5MDYwMjU1MjcuanBlZyIsImlhdCI6MTc2NDc3OTE4OCwiZXhwIjoxNzgyMDU5MTg4fQ.dnnVKEnzWHVVsH77fL4N6wqq6X-uynzdHu-4jZU9550" alt="Banner"/>
 </p>
 
 # 👋 Hello, I'm Joshua Herrera
